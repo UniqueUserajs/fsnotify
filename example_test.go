@@ -1,7 +1,7 @@
 package fsnotify_test
 
 import (
-	"github.com/howeyc/fsnotify"
+	"github.com/UniqueUserajs/fsnotify"
 	"log"
 )
 
